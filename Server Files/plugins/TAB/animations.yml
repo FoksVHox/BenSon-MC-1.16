@@ -1,0 +1,162 @@
+#usage: %animation:NAME%
+animations:
+  MyAnimation1:
+    #in MILLISECONfS
+    change-interval: 150
+    texts:
+      - "&f-&7--------------"
+      - "&7-&f-&7-------------"
+      - "&7--&f-&7------------"
+      - "&7---&f-&7-----------"
+      - "&7----&f-&7----------"
+      - "&7-----&f-&7---------"
+      - "&7------&f-&7--------"
+      - "&7-------&f-&7-------"
+      - "&7--------&f-&7------"
+      - "&7---------&f-&7-----"
+      - "&7----------&f-&7----"
+      - "&7-----------&f-&7---"
+      - "&7------------&f-&7--"
+      - "&7-------------&f-&7-"
+      - "&7--------------&f-"
+      - "&7-------------&f-&7-"
+      - "&7------------&f-&7--"
+      - "&7-----------&f-&7---"
+      - "&7----------&f-&7----"
+      - "&7---------&f-&7-----"
+      - "&7--------&f-&7------"
+      - "&7-------&f-&7-------"
+      - "&7------&f-&7--------"
+      - "&7-----&f-&7---------"
+      - "&7----&f-&7----------"
+      - "&7---&f-&7-----------"
+      - "&7--&f-&7------------"
+      - "&7-&f-&7-------------"
+      - "&f-&7--------------"
+  ServerName:
+    change-interval: 700
+    texts:
+      - "&c&lServerName"
+      - "&c&n&lServerName"
+      - "&b&lServerName"
+      - "&b&l&nServerName"
+      - "&e&lServerName"
+      - "&e&n&lServerName"
+  web:
+    change-interval: 200
+    texts:
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&6w&eww.fomain.com"
+      - "&ew&6w&ew.fomain.com"
+      - "&eww&6w&e.fomain.com"
+      - "&ewww&6.&efomain.com"
+      - "&ewww.&6f&eomain.com"
+      - "&ewww.f&6o&emain.com"
+      - "&ewww.fo&6m&eain.com"
+      - "&ewww.fom&6a&ein.com"
+      - "&ewww.foma&6i&en.com"
+      - "&ewww.fomai&6n&e.com"
+      - "&ewww.fomain&6.&ecom"
+      - "&ewww.fomain.&6c&eom"
+      - "&ewww.fomain.c&6o&em"
+      - "&ewww.fomain.co&6m"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+      - "&ewww.fomain.com"
+  vote:
+    change-interval: 1000
+    texts:
+      - "&avote.fomain.com"
+      - "&a&nvote.fomain.com"
+      - "&5vote.fomain.com"
+      - "&5&nvote.fomain.com"
+  Welcome:
+    change-interval: 400
+    texts:
+      - "&7&lW_"
+      - "&7&lW_"
+      - "&7&lWe_"
+      - "&7&lWel_"
+      - "&7&lWelc_"
+      - "&7&lWelco_"
+      - "&7&lWelcom_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcom_"
+      - "&7&lWelco_"
+      - "&7&lWelc_"
+      - "&7&lWel_"
+      - "&7&lWe_"
+      - "&7&lW_"
+      - "&7&lW_"
+  time:
+    change-interval: 900
+    texts:
+      - "&7Time &b%time%"
+      - "&7> Time &b%time% &7<"
+      - "&7>> Time &b%time% &7<<"
+      - "&7>>> Time &b%time% &7<<<"
+      - "&7fate &b%fate%"
+      - "&7> fate &b%fate% &7<"
+      - "&7>> fate &b%fate% &7<<"
+      - "&7>>> fate &b%fate% &7<<<"
+  ping-tps:
+    change-interval: 5000
+    texts:
+      - "&aPing: &2&n%ping%&r &ams"
+      - "&bServer TPS: &8%tps%"
+  versions:
+    change-interval: 1000
+    texts:
+      - "Online players with MC 1.15.x : %version-group:1-15-x%"
+      - "Online players with MC 1.14.x : %version-group:1-14-x%"
+      - "Online players with MC 1.17.x : %version-group:1-17-x%"
+      - "Online players with MC 1.12.x : %version-group:1-12-x%"
+      - "Online players with MC 1.11.x : %version-group:1-11-x%"
+      - "Online players with MC 1.10.x : %version-group:1-10-x%"
+      - "Online players with MC 1.9.x : %version-group:1-9-x%"
+      - "Online players with MC 1.8.x : %version-group:1-8-x%"
+      - "Online players with MC 1.7.x : %version-group:1-7-x%"
+      - "Online players with MC 1.6.x : %version-group:1-6-x%"
+      - "Online players with MC 1.5.x : %version-group:1-5-x%"
+  afmin_prefix:
+    change-interval: 1000
+    texts:
+      - "&6&lAfmin &e"
+      - "&6&lAfmin &e"
+      - "&9&lAfmin &e"
+      - "&9&lAfmin &e"
+      - "&4&lAfmin &e"
+      - "&4&lAfmin &e"
+      - "&7&lAfmin &e"
+      - "&7&lAfmin &e"
+      - "&2&lAfmin &e"
+      - "&2&lAfmin &e"
+      - "&f&lAfmin &e"
+      - "&f&lAfmin &e"
+      - "&f&lAfmin &e"
+      - "&f&lAfmi &e"
+      - "&f&lAfm &e"
+      - "&f&lAf &e"
+      - "&f&lA &e"
+      - "&f&lAf &e"
+      - "&f&lAfm &e"
+      - "&f&lAfmi &e"
+      - "&f&lAfmin &e"
+  barcolors:
+    change-interval: 1000
+    texts:
+      - "REf"
+      - "BLUE"
+      - "GREEN"
+      - "YELLOW"
